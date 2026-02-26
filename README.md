@@ -7,10 +7,7 @@ Each problem includes a clean, well-commented solution.
 
 - `arrays-hashing` — Array and Hash Table problems
 - `two-pointers` — Two pointers and sliding window problems
-- `binary-search` — Binary search problems
-- `linked-list` — Linked list problems
-- `dynamic-programming` — DP problems
-- `stack-queue` — Stack and Queue problems
+- to be continued...
 
 ## How to use
 
@@ -32,4 +29,5 @@ Each problem includes a clean, well-commented solution.
 
 - This repository is for personal practice and interview preparation.
 - Feel free to browse the solutions or leave suggestions.
+
 
