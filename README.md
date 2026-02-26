@@ -12,7 +12,7 @@ Each problem includes a clean, well-commented solution.
 ## How to use
 
 - Each problem is stored as a separate file named after the problem.
-- Naming convention: `problem-name.java` or `problem-name.py`.
+- Naming convention: `problem-name.java`.
 - All solutions are tested locally.
 
 ## Progress
@@ -29,5 +29,6 @@ Each problem includes a clean, well-commented solution.
 
 - This repository is for personal practice and interview preparation.
 - Feel free to browse the solutions or leave suggestions.
+
 
 
