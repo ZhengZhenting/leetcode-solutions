@@ -17,7 +17,7 @@ Each problem includes a clean, well-commented solution.
 
 ## Progress
 
-- Total problems solved: 10+
+- Total problems solved: 15+
 
 ## Tech Stack
 
