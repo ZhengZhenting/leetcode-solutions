@@ -5,8 +5,9 @@ Each problem includes a clean, well-commented solution.
 
 ## Categories
 
-- `arrays-hashing` — Array and Hash Table problems
-- `two-pointers` — Two pointers and sliding window problems
+- `arrays-hashing` 
+- `two-pointers` 
+- `sliding-windows`
 - to be continued...
 
 ## How to use
@@ -17,7 +18,7 @@ Each problem includes a clean, well-commented solution.
 
 ## Progress
 
-- Total problems solved: 15+
+- Total problems solved: 20+
 
 ## Tech Stack
 
