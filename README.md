@@ -8,6 +8,7 @@ Each problem includes a clean, well-commented solution.
 - `arrays-hashing` 
 - `two-pointers` 
 - `sliding-windows`
+- `binary-search`
 - to be continued...
 
 ## How to use
