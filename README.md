@@ -9,6 +9,7 @@ Each problem includes a clean, well-commented solution.
 - `two-pointers` 
 - `sliding-windows`
 - `binary-search`
+- `linked-list`
 - to be continued...
 
 ## How to use
@@ -19,7 +20,7 @@ Each problem includes a clean, well-commented solution.
 
 ## Progress
 
-- Total problems solved: 20+
+- Total problems solved: 30+
 
 ## Tech Stack
 
