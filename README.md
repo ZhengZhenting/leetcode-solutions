@@ -10,6 +10,7 @@ Each problem includes a clean, well-commented solution.
 - `sliding-windows`
 - `binary-search`
 - `linked-list`
+- `stack`
 - to be continued...
 
 ## How to use
@@ -20,7 +21,7 @@ Each problem includes a clean, well-commented solution.
 
 ## Progress
 
-- Total problems solved: 30+
+- Total problems solved: 40+
 
 ## Tech Stack
 
